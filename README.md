@@ -1,5 +1,16 @@
 # padr
+
 Python 3 Padding Library
+
+## Install
+
+It's on PyPi, install with
+
+```bash
+$ pip install padr
+```
+
+## Example
 
 (Using a monospace font is necessary for the demonstration)
 

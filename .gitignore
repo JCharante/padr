@@ -2,3 +2,5 @@
 .venv
 *.pyc
 .pypirc
+dist
+MANIFEST
