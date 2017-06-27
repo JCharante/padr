@@ -7,7 +7,7 @@ setup(
 	author='JCharante',
 	author_email='contactme@jcharante.com',
 	url='https://github.com/JCharante/padr',
-	download_url='https://github.com/JCharante/padr/tarball/1.0.0',
+	download_url='https://github.com/JCharante/padr/tarball/v1.0.0',
 	keywords=['padding'],
 	classifiers=[],
 )
