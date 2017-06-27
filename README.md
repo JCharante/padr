@@ -4,7 +4,7 @@ Python 3 Padding Library
 
 ## Install
 
-It's on PyPi, install with
+It's on [PyPi](https://pypi.python.org/pypi/padr/1.0.1), install with
 
 ```bash
 $ pip install padr
